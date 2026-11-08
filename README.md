@@ -155,9 +155,9 @@ streamlit run app.py
 
 ## 11. Project Links
 
-**GitHub Repository:** [Add your GitHub repository URL here.](https://github.com/KrishBhayani/ML-Assignment-2-Bank-Marketing-Classification.git)
+**GitHub Repository:** [GitHub Repository URL](https://github.com/KrishBhayani/ML-Assignment-2-Bank-Marketing-Classification)
 
-**Live Streamlit Application:** Add your deployed Streamlit application URL here.
+**Live Streamlit Application:** [Live Streamlit Application URL](https://ml-assignment-2-bank-marketing-classification-2mnuv8dcpptxrn7m.streamlit.app/)
 
 ## 12. Conclusion
 
