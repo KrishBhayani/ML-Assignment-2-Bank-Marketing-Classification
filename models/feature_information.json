@@ -1,0 +1,43 @@
+{
+    "numerical_features": [
+        "age",
+        "balance",
+        "day",
+        "campaign",
+        "pdays",
+        "previous"
+    ],
+    "categorical_features": [
+        "job",
+        "marital",
+        "education",
+        "default",
+        "housing",
+        "loan",
+        "contact",
+        "month",
+        "poutcome"
+    ],
+    "input_features": [
+        "age",
+        "job",
+        "marital",
+        "education",
+        "default",
+        "balance",
+        "housing",
+        "loan",
+        "contact",
+        "day",
+        "month",
+        "campaign",
+        "pdays",
+        "previous",
+        "poutcome"
+    ],
+    "target_column": "y",
+    "target_classes": [
+        "no",
+        "yes"
+    ]
+}
